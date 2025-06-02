@@ -1,0 +1,6 @@
+# EXAMPLES FOR KEYPOINT EXTRACTION:
+Given an image, extract only the key visual indicators that are relevant for a value-aware vacuum cleaner to make a cleaning decision.
+Focus on:
+- Presence of people or pets
+- Human activity
+- Contextual clues
