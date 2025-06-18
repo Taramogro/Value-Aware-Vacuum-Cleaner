@@ -22,3 +22,6 @@ An application that:
    - Page 2: GPT page 1, this page does the exact same thing as the application in `Value_Aware_AI_Test_Code/`.
    - Page 3: GPT page 2, this page has all the same fields and buttons as GPT page 1, but instead is connected to the **TurtleBot4** where it shows camera output from the **TurtleBot4** and uses that as input for the AI's Value-Aware decision process.
 
+ ## Paper
+ For more details and explenation of this project the paper (`Paper- Value aware vacuum cleaner- 2024-2025 - Senne Lenaerts - EN.pdf`) will contain that.
+
