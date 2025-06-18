@@ -1,3 +1,8 @@
-# Project
+# Value-Aware AI
+This project handels the topic of implementing Value-Awareness into artificial intelligence, and to showcase how this AI it is implemented into a Turtlebot4 that is used to immitate a vacuum cleaner
 
-Currently GitRepository will not contain code files, but all necessary files will be added in the week of 2-8 June.
+# Codes
+In total there are two codes avalible in this Git-Repos.
+
+
+
