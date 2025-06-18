@@ -40,10 +40,11 @@ A full application integrated with **TurtleBot4** using **PyQt5** for a graphica
 
 #### Page 3: GPT Page 2
 
-- Connected to **TurtleBot4**
 - Displays live camera feed from the robot
 - Feeds the image to the AI for real-time scene analysis
 - Shows AI-generated decision and reasoning in the UI
+
+> Both GPT pages mode decision control the robot.
 
 ---
 
