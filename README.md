@@ -10,7 +10,7 @@ This repository includes two main components:
 
 ### 1. `Value_Aware_AI_Test_Code/`
 
-An application designed for offline testing of the value-aware decision-making process:
+An application using **PyQt5** designed for testing of the value-aware decision-making process without the **TurtleBot4**:
 
 - Loads an image from a specified folder.
 - Sends the image to a value-aware AI agent (powered by GPT-4o or similar).
